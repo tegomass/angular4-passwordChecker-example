@@ -1,0 +1,16 @@
+#inputs{
+  border: 2px solid #ccc;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+}
+.numericButton{
+  border: 1px solid black;
+  height: 20px;
+  padding: 5px;
+  margin:5px;
+  text-align: center;
+  flex: 0 0 20px;
+
+}
