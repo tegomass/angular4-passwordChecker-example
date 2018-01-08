@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "projbemyeye"
+    "name": "angular4-passwordChecker-example"
   },
   "apps": [
     {

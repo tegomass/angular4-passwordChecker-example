@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('projbemyeye App', () => {
+describe('angular4-passwordChecker-example App', () => {
   let page: AppPage;
 
   beforeEach(() => {
